@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "d03206c7d73c07df",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede3e6837bf2fae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5c63d9252611fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0eb05aed61a00dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "26744503a8c7f552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e694c8dbf1e511",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "904c2a1b8a08480a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6356ad51f7fbfb21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b99562d8de77c4cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1789b90b22b19fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2ced7c569a4084c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Area/Mobile Dev/04_Sensors and motions/01_sensors.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01_sensors"
+            }
+          },
+          {
+            "id": "2524a2672fc51de3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2a63ce9e2a8a1329",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7959fac92526e8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Area/Backend/Backend ( yt ) - mongo/04_models_start/03_jwt_bcrypt_aggregatePaginate.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_jwt_bcrypt_aggregatePaginate"
+            }
+          },
+          {
+            "id": "fcd486e4e3cfaebe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "5d5c63d9252611fc",
+  "lastOpenFiles": [
+    "excalidraw/api-gateway role.md",
+    "excalidraw/api-gateway role.png",
+    "excalidraw/04_Home.jpeg",
+    "excalidraw/03_login.jpeg",
+    "excalidraw/ARPA NET.md",
+    "excalidraw/auth flow.md",
+    "excalidraw/auth flow - expense tracker v2.md",
+    "excalidraw/auth routes.md",
+    "excalidraw/basic_structure_website.md",
+    "excalidraw/big picture overview of dev.md",
+    "excalidraw/blog-01 diffing algo.md",
+    "excalidraw/blog-01 minimal DOM update.md",
+    "excalidraw/kafka 101.md",
+    "excalidraw/reactFlow.png",
+    "excalidraw/React_state.png",
+    "2. Area/SD/SD1_course_arpit_bhayani/04_async_processing/02_msg_streams nd Kafka.md",
+    "kafka 101.md",
+    "excalidraw/zustand_101.md",
+    "excalidraw/zustand_101.png",
+    "excalidraw/without RAG.md",
+    "excalidraw/without RAG.png",
+    "excalidraw/with RAG.md",
+    "excalidraw/with RAG.png",
+    "excalidraw/why_ts.md",
+    "excalidraw/why_ts.png",
+    "excalidraw/why_subscription_Schema.md",
+    "excalidraw/why_subscription_Schema.png",
+    "excalidraw/why_queue_needed.md",
+    "excalidraw/why redis.md",
+    "excalidraw/why port mapping.md",
+    "excalidraw/why ORM.md",
+    "excalidraw/VPN.md",
+    "excalidraw/vm vs containers.md",
+    "excalidraw/video_models_yt.md",
+    "excalidraw/vertical_scaling.md",
+    "2. Area/SD/SD1_course_arpit_bhayani/06_essentials_at_scale",
+    "2. Area/SD/SD1_course_arpit_bhayani/05_resiliency",
+    "2. Area/SD/SD1_course_arpit_bhayani/04_async_processing",
+    "2. Area/AWS",
+    "2. Area/SD/SD1_course_arpit_bhayani/03_cache",
+    "2. Area/SD/SD1_course_arpit_bhayani/02_databases",
+    "2. Area/SD/SD1_course_arpit_bhayani/01_basics",
+    "2. Area/SD/SD1_course_arpit_bhayani",
+    "LEARNINGS/SD Interview by Om Mapari",
+    "LEARNINGS",
+    "Untitled.canvas"
+  ]
+}
