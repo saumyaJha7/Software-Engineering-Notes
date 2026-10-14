@@ -30,7 +30,7 @@ tags:
 #### - Solution is to write the functions in app itself .. 
 
 
-![QMS_plan](../../../../../excalidraw/QMS_plan.md)
+![QMS_plan](../../../../../excalidraw/QMS_plan.png)
 
 
 

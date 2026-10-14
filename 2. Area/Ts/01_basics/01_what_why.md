@@ -14,7 +14,7 @@ tags:
 
 
 
-![why_ts](../../../excalidraw/why_ts.md)
+![why_ts](../../../excalidraw/why_ts.png)
 
 
 

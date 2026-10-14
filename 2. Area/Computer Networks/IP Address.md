@@ -15,7 +15,7 @@ tags:
 
 
 
-![Private_Public IP](../../excalidraw/Private_Public IP.md)
+![Private_Public IP](../../excalidraw/Private_Public IP.png)
 
 
 ## Now let's say you requested google.com ... then what happens ?

@@ -19,7 +19,7 @@ console.log("4th log");
 
 
 
-![sync js thread](../../../excalidraw/sync js thread.md)
+![sync js thread](../../../excalidraw/sync js thread.png)
 
 
 ## Main thread kya krega ek ek krke task uthayga and execute krega ...  jab tk ek execute ho rha hai tb tk kch aur kaam ni ho skta ...  ==**Blocking Nature**==
@@ -28,7 +28,7 @@ console.log("4th log");
 
 
 
-![sync js thread flow](../../../excalidraw/sync js thread flow.md)
+![sync js thread flow](../../../excalidraw/sync js thread flow.png)
 
 
 # Q. What is the problem ?

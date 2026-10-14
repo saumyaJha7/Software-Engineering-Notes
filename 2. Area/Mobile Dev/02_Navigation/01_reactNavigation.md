@@ -67,7 +67,7 @@ https://chatgpt.com/g/g-p-69fd72aa379c8191afa95830f8ca4383-mobile-dev/c/6a509d89
 3. Drawer : side panel drawer
 
 
-![types of navigation in RN](../../../excalidraw/types of navigation in RN.md)
+![types of navigation in RN](../../../excalidraw/types of navigation in RN.png)
 
 
 

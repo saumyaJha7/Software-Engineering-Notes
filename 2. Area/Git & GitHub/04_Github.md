@@ -25,7 +25,7 @@ tags:
 
 
 
-![github_01](../../excalidraw/github_01.md)
+![github_01](../../excalidraw/github_01.png)
 
 
 ### 1. To apne local folder mai jisme .git folder hai usme saare changes track ho rhe hai .. 

@@ -13,7 +13,7 @@ https://www.tldraw.com/f/mQeviE3IZLi8quAUEoGja?d=v525.66800.1775.885.page
 - backend to seperate rkhna hai .. uski alg duniya hai 
 
 
-![EAS](../../../excalidraw/EAS.md)
+![EAS](../../../excalidraw/EAS.png)
 
 
 
@@ -27,7 +27,7 @@ https://www.tldraw.com/f/mQeviE3IZLi8quAUEoGja?d=v525.66800.1775.885.page
 
 
 
-![EAS flow](../../../excalidraw/EAS flow.md)
+![EAS flow](../../../excalidraw/EAS flow.png)
 
 
 

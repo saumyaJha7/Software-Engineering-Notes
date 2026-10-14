@@ -34,7 +34,7 @@ tags:
 - ALB -> appropriate server 
 
 
-![req_flow](../../../../excalidraw/req_flow.md)
+![req_flow](../../../../excalidraw/req_flow.png)
 
 
 ### - AWS WAF :- 
@@ -56,5 +56,5 @@ tags:
 - but main job is security and optimisation
 
 
-![req_flow_overview](../../../../excalidraw/req_flow_overview.md)
+![req_flow_overview](../../../../excalidraw/req_flow_overview.png)
 

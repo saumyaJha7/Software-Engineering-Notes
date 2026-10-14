@@ -32,7 +32,7 @@ tags:
 
 
 
-![zustand_101](../../../../excalidraw/zustand_101.md)
+![zustand_101](../../../../excalidraw/zustand_101.png)
 
 
 

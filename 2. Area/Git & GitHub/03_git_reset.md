@@ -13,7 +13,7 @@ tags:
 git reset <abc>  // commit ID
 ```
 
-![git_reset](../../excalidraw/git_reset.md)
+![git_reset](../../excalidraw/git_reset.png)
 
 
 

@@ -91,7 +91,7 @@ function Container({children , text}){
 
 
 
-![childrenProps](../../../../excalidraw/childrenProps.md)
+![childrenProps](../../../../excalidraw/childrenProps.png)
 
 
 

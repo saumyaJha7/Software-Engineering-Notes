@@ -9,7 +9,7 @@ tags:
 ### Ans. We have some req nd have to build product around it , the in between process is system design
 
 
-![sd_101](../../../../excalidraw/sd_101.md)
+![sd_101](../../../../excalidraw/sd_101.png)
 
 
 

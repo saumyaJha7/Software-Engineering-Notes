@@ -51,7 +51,7 @@ Rather it is there at the initial phase when the event is going to be stored at 
 ```
 
 
-![kafka partitioning 101](../../../../excalidraw/kafka partitioning 101.md)
+![kafka partitioning 101](../../../../excalidraw/kafka partitioning 101.png)
 
 
 

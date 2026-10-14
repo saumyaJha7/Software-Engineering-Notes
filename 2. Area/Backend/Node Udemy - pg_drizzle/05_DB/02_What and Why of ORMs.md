@@ -25,7 +25,7 @@ tags:
 - Then it **maps** the query results back into **objects** you can use in your code.
 
 
-![why ORM](../../../../excalidraw/why ORM.md)
+![why ORM](../../../../excalidraw/why ORM.png)
 
 
 ## Read more about them :- 

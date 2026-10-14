@@ -10,7 +10,7 @@ tags:
 ## Q. What is a server ?
 ### Ans :  A 24/7 running machine with public IP that serves to  other computer's known as client .
 
-![server_101](../../../../excalidraw/server_101.md)
+![server_101](../../../../excalidraw/server_101.png)
 
 
 ## When client requests some thing , server listens to the request , do something ( db call , auth , etc ) and return back the response to the client .

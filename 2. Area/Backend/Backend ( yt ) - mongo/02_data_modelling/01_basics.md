@@ -10,7 +10,7 @@ tags:
 
 
 ### Note : "Hamesha data save krne ka phle socho rather than validation " - Register over Login
-![data_modelling_basics](../../../../excalidraw/data_modelling_basics.md)
+![data_modelling_basics](../../../../excalidraw/data_modelling_basics.png)
 
 
 

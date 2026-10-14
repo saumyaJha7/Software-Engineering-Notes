@@ -9,7 +9,7 @@ tags:
 ## "There was a time when on one server only one OS used to run and often the RAM nd CPU were idle ."
 
 
-![need of containarisation](../../../excalidraw/need of containarisation.md)
+![need of containarisation](../../../excalidraw/need of containarisation.png)
 
 ## Now we install OS on top of it , and run any node app for example .
 
@@ -18,7 +18,7 @@ tags:
 - coz ek server pe ek hi OS etc 
 
 
-![need of containarisation 2](../../../excalidraw/need of containarisation 2.md)
+![need of containarisation 2](../../../excalidraw/need of containarisation 2.png)
 
 
 ## then came the hypervisor software , which was the resource management software which made it possible to use only ==certain part of ram , cpu and disk== for our app and also run it is isolated env 

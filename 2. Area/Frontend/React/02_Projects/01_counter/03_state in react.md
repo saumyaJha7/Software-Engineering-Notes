@@ -9,7 +9,7 @@ tags:
 
 #### how it will be done in js :- 
 
-![js_state_manage](../../../../../excalidraw/js_state_manage.md)
+![js_state_manage](../../../../../excalidraw/js_state_manage.png)
 
 
 
@@ -25,7 +25,7 @@ tags:
 ## Now how reacts solves this is :- 
 
 
-![React_state](../../../../../excalidraw/React_state.md)
+![React_state](../../../../../excalidraw/React_state.png)
 
 
 

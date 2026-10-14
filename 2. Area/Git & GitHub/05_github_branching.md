@@ -11,7 +11,7 @@ tags:
 
 
 
-![github_branching](../../excalidraw/github_branching.md)
+![github_branching](../../excalidraw/github_branching.png)
 
 
 ## 1. To create a new branch 
@@ -57,4 +57,4 @@ git checkout <branchName>
 
 
 
-![github_branching_02](../../excalidraw/github_branching_02.md)
+![github_branching_02](../../excalidraw/github_branching_02.png)

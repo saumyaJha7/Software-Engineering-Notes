@@ -13,10 +13,10 @@ tags:
 - Can be used for logging req , auth , extra checking for bad requests etc 
 - It has all the access in req - res cycle to end it , change it or to forward it to the next ones.
 
-![req_res_flow_express](../../../../excalidraw/req_res_flow_express.md)
-![middleware](../../../../excalidraw/middleware.md)
+![req_res_flow_express](../../../../excalidraw/req_res_flow_express.png)
+![middleware](../../../../excalidraw/middleware.png)
 
-![middleware_2](../../../../excalidraw/middleware_2.md)
+![middleware_2](../../../../excalidraw/middleware_2.png)
 
 
 ## Q. Why middle-ware ?

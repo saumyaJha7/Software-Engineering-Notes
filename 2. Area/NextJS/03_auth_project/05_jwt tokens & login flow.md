@@ -7,7 +7,7 @@ tags:
 
 
 
-![login flow](../../../excalidraw/login flow.md)
+![login flow](../../../excalidraw/login flow.png)
 
 
 

@@ -6,4 +6,4 @@ tags:
 ---
 
 
-![how ts gets executed](../../../excalidraw/how ts gets executed.md)
+![how ts gets executed](../../../excalidraw/how ts gets executed.png)

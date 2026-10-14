@@ -6,7 +6,7 @@ tags:
   - server
 ---
 
-![Serialisation_DeSer](../../../../excalidraw/Serialisation_DeSer.md)
+![Serialisation_DeSer](../../../../excalidraw/Serialisation_DeSer.png)
 
 
 

@@ -1,3 +1,3 @@
 
 
-![VPN](../../excalidraw/VPN.md)
+![VPN](../../excalidraw/VPN.png)

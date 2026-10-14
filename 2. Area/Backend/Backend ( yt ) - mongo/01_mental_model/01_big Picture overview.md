@@ -7,7 +7,7 @@ tags:
 
 
 
-![Full Stack web overview](../../../../excalidraw/Full Stack web overview.md)
+![Full Stack web overview](../../../../excalidraw/Full Stack web overview.png)
 
 
 ## Flow :-

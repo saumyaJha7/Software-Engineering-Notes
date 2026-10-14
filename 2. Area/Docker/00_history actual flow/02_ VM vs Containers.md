@@ -4,7 +4,7 @@ tags:
   - VM
   - docker
 ---
-![containers vs VM](../../../excalidraw/containers vs VM.md)
+![containers vs VM](../../../excalidraw/containers vs VM.png)
 
 
 

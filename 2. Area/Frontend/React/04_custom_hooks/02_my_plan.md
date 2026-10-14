@@ -6,7 +6,7 @@ tags:
 ---
 
 
-![ecom_react_project_plan](../../../../excalidraw/ecom_react_project_plan.md)
+![ecom_react_project_plan](../../../../excalidraw/ecom_react_project_plan.png)
 
 
 

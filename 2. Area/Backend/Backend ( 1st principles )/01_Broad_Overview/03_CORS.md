@@ -22,7 +22,7 @@ tags:
 - Header : Auth / custom headers 
 - Content-Type : app/json
 
-![http_cors_flow_preflight_req](../../../../excalidraw/http_cors_flow_preflight_req.md)
+![http_cors_flow_preflight_req](../../../../excalidraw/http_cors_flow_preflight_req.png)
 
 
 

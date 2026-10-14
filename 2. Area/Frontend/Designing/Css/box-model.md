@@ -47,4 +47,4 @@ tags:
 
 
 
-![css box model](../../../../excalidraw/css box model.md)
+![css box model](../../../../excalidraw/css box model.png)

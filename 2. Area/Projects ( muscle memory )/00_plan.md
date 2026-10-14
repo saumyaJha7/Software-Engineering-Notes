@@ -5,4 +5,4 @@
 
 
 
-![porjects_plan](../../excalidraw/porjects_plan.md)
+![porjects_plan](../../excalidraw/porjects_plan.png)

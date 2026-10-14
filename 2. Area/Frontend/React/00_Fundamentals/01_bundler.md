@@ -42,7 +42,7 @@ https://chatgpt.com/g/g-p-690dd78523248191bca3e3165d557bd0-frontend/c/6980c3d8-e
 npm create vite@latest
 ```
 
-![bundler_101](../../../../excalidraw/bundler_101.md)
+![bundler_101](../../../../excalidraw/bundler_101.png)
 
 
 

@@ -5,7 +5,7 @@ tags:
 ---
 ### basic components of a system :- 
 
-![caching difn lvls](../../../../excalidraw/caching difn lvls.md)
+![caching difn lvls](../../../../excalidraw/caching difn lvls.png)
 
 #### we can cache things at multiple places , like 
 

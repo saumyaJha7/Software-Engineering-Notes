@@ -4,7 +4,7 @@ tags:
   - backend
   - thinking
 ---
-![dev basics](../../../../excalidraw/dev basics.md)
+![dev basics](../../../../excalidraw/dev basics.png)
 
 
 

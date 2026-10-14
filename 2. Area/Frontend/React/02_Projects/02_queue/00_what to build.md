@@ -8,7 +8,7 @@ tags:
 ## Queue management project 
 
 
-![queue_MS_project_00](../../../../../excalidraw/queue_MS_project_00.md)
+![queue_MS_project_00](../../../../../excalidraw/queue_MS_project_00.png)
 
 
 
@@ -16,7 +16,7 @@ tags:
 ### Initial state :- 
 
 
-![queue_MS_project_01](../../../../../excalidraw/queue_MS_project_01.md)
+![queue_MS_project_01](../../../../../excalidraw/queue_MS_project_01.png)
 
 
 
@@ -24,7 +24,7 @@ tags:
 ### Flow :- 
 
 
-![queue_MS_project_02](../../../../../excalidraw/queue_MS_project_02.md)
+![queue_MS_project_02](../../../../../excalidraw/queue_MS_project_02.png)
 
 
 

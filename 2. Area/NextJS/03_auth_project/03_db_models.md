@@ -4,7 +4,7 @@ tags:
   - models
 ---
 
-![db_model_auth](../../../excalidraw/db_model_auth.md)
+![db_model_auth](../../../excalidraw/db_model_auth.png)
 
 
 

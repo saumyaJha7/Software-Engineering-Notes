@@ -4,7 +4,7 @@ tags:
 ---
 
 
-![ts_to_js](../../../excalidraw/ts_to_js.md)
+![ts_to_js](../../../excalidraw/ts_to_js.png)
 
 
 

@@ -17,12 +17,12 @@ tags:
 
 
 
-![auth routes](../../../excalidraw/auth routes.md)
+![auth routes](../../../excalidraw/auth routes.png)
 
 
 
 ## Also the verification of user flow is like :- 
 
 
-![verify user flow](../../../excalidraw/verify user flow.md)
+![verify user flow](../../../excalidraw/verify user flow.png)
 

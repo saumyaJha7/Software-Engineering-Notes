@@ -15,7 +15,7 @@ tags:
 
 
 
-![props](../../../../excalidraw/props.md)
+![props](../../../../excalidraw/props.png)
 
 
 

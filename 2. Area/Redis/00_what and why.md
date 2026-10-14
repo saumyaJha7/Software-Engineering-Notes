@@ -28,7 +28,7 @@ Note : DB's are evolving so much ... and line blur hote ja rhi hai .. like we ca
 - rate limiting 
 - queue and pub-sub
 
-![why redis](../../excalidraw/why redis.md)
+![why redis](../../excalidraw/why redis.png)
 
 
 
@@ -42,7 +42,7 @@ Note : DB's are evolving so much ... and line blur hote ja rhi hai .. like we ca
 
 
 1. bhut saare users aayege sale wale din to server toh horizontally scale kr diye par db to bottleneck bn gya n ( we can use db sharding ya replication but let's say ek hi db rkhna hai ) tb redis will fasten the process 
-![case where redis shines](../../excalidraw/case where redis shines.md)
+![case where redis shines](../../excalidraw/case where redis shines.png)
 
 
 ## IT IS NOT THE SOLUTION TO EVERY PROBLEM .. understand the problem .. 
