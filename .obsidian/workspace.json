@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "05cfbf406aa45aec",
+        "id": "67e41d3144ce44de",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9ffb3164198e82",
+            "id": "ef225daf6e411529",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2. Area/SD/SD1_course_arpit_bhayani/06_essentials_at_scale/04_consistent hashing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04_consistent hashing"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b99562d8de77c4cb",
@@ -181,8 +186,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f9ffb3164198e82",
+  "active": "ef225daf6e411529",
   "lastOpenFiles": [
+    "2. Area/SD/SD1_course_arpit_bhayani/06_essentials_at_scale/04_consistent hashing.md",
     "2. Area/SD/SD1_course_arpit_bhayani/06_essentials_at_scale/03_bloom_filters.md",
     "excalidraw/bloomFilters5.png",
     "excalidraw/bloomFilters7.png",
