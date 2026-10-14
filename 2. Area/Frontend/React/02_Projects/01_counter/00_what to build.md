@@ -4,7 +4,7 @@ tags:
   - planning
 ---
 
-![Pasted image 20260205182127.png](../../../../../excalidraw/Pasted image 20260205182127.png)
+![Pasted image 20260205182127.png](../../../../../excalidraw/Pasted%20image%2020260205182127.png)
 
 
 ## A simple counter app with certain fn such as :- 

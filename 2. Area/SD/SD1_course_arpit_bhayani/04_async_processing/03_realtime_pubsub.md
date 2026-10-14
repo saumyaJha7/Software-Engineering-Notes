@@ -19,7 +19,7 @@ as soon as redis gets the message , it broadcasts the message to whoever has sub
 
 
 
-![Pasted image 20261007195146.png](../../../../excalidraw/Pasted image 20261007195146.png)
+![Pasted image 20261007195146.png](../../../../excalidraw/Pasted%20image%2020261007195146.png)
 
 ### A very useful mental model :- 
 
@@ -32,5 +32,5 @@ as soon as redis gets the message , it broadcasts the message to whoever has sub
 
 
 
-![Pasted image 20261007195306.png](../../../../excalidraw/Pasted image 20261007195306.png)
-![Pasted image 20261007195328.png](../../../../excalidraw/Pasted image 20261007195328.png)
+![Pasted image 20261007195306.png](../../../../excalidraw/Pasted%20image%2020261007195306.png)
+![Pasted image 20261007195328.png](../../../../excalidraw/Pasted%20image%2020261007195328.png)

@@ -13,7 +13,7 @@ tags:
 
 ## **Nested model** = `BaseModel` inside another `BaseModel`.
 
-![nested model](../../excalidraw/nested model.png)
+![nested model](../../excalidraw/nested%20model.png)
   
   
 

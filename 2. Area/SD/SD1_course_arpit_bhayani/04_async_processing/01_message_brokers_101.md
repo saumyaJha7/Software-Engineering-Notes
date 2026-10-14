@@ -5,13 +5,13 @@ tags:
   - sd
 ---
 
-![Pasted image 20261007115249.png](../../../../excalidraw/Pasted image 20261007115249.png)
-![Pasted image 20261007115307.png](../../../../excalidraw/Pasted image 20261007115307.png)
+![Pasted image 20261007115249.png](../../../../excalidraw/Pasted%20image%2020261007115249.png)
+![Pasted image 20261007115307.png](../../../../excalidraw/Pasted%20image%2020261007115307.png)
 
-![Pasted image 20261007115322.png](../../../../excalidraw/Pasted image 20261007115322.png)
-![Pasted image 20261007115331.png](../../../../excalidraw/Pasted image 20261007115331.png)
-![Pasted image 20261007115505.png](../../../../excalidraw/Pasted image 20261007115505.png)
-![Pasted image 20261007115520.png](../../../../excalidraw/Pasted image 20261007115520.png)
+![Pasted image 20261007115322.png](../../../../excalidraw/Pasted%20image%2020261007115322.png)
+![Pasted image 20261007115331.png](../../../../excalidraw/Pasted%20image%2020261007115331.png)
+![Pasted image 20261007115505.png](../../../../excalidraw/Pasted%20image%2020261007115505.png)
+![Pasted image 20261007115520.png](../../../../excalidraw/Pasted%20image%2020261007115520.png)
 
 - generally there is ttl to a msg / job let say 14 days 
 - job one came to broker 
@@ -30,5 +30,5 @@ One way of doing it is listed below , different services may have diffn exact wa
 - ( nd at the end after some fix days , khud se to job delete hi honi if not explicitly deleted by any worker )
 
 
-![Pasted image 20261007115538.png](../../../../excalidraw/Pasted image 20261007115538.png)
-![Pasted image 20261007115545.png](../../../../excalidraw/Pasted image 20261007115545.png)
+![Pasted image 20261007115538.png](../../../../excalidraw/Pasted%20image%2020261007115538.png)
+![Pasted image 20261007115545.png](../../../../excalidraw/Pasted%20image%2020261007115545.png)

@@ -10,7 +10,7 @@ tags:
 
 
 
-![Pasted image 20260901213228.png](../../excalidraw/Pasted image 20260901213228.png)
+![Pasted image 20260901213228.png](../../excalidraw/Pasted%20image%2020260901213228.png)
 
 
 

@@ -20,7 +20,7 @@ return response;
 ```
 
 
-<!-- ![task_queues problem statement](../../../../../excalidraw/task_queues problem statement.png) -->
+<!-- ![task_queues problem statement](../../../../../excalidraw/task_queues%20problem%20statement.png) -->
 ![task_queues problem statement](../../../../../excalidraw/task_queues%20problem%20statement.png)
 
 
@@ -41,7 +41,7 @@ queue.process("sendEmail", async (job) => {
 });
 ```
 
-<!-- ![task_queue solution](../../../../../excalidraw/task_queue solution.png) -->
+<!-- ![task_queue solution](../../../../../excalidraw/task_queue%20solution.png) -->
 ![task_queue solution](../../../../../excalidraw/task_queue%20solution.png)
 
 

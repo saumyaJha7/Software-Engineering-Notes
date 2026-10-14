@@ -6,7 +6,7 @@ tags:
 
 ## How we get any website if we hit it's domain name 
 
-![how user gets any thing in web](../../excalidraw/how user gets any thing in web.png)
+![how user gets any thing in web](../../excalidraw/how%20user%20gets%20any%20thing%20in%20web.png)
 
 
 ## How gov/authority can ban any web/app ?

@@ -5,7 +5,7 @@ tags:
 ---
 ### basic components of a system :- 
 
-![caching difn lvls](../../../../excalidraw/caching difn lvls.png)
+![caching difn lvls](../../../../excalidraw/caching%20difn%20lvls.png)
 
 #### we can cache things at multiple places , like 
 
@@ -15,7 +15,7 @@ tags:
 - db lvl cache : no need to compute frequently accessed things every time , precompute
 
 
-![Pasted image 20261001093410.png](../../../../excalidraw/Pasted image 20261001093410.png)
+![Pasted image 20261001093410.png](../../../../excalidraw/Pasted%20image%2020261001093410.png)
 
 - caching is good but it comes with it's own down side of staleness 
 - so jaha thoda bhut staleness chalege to thik hai , ofc use caching
@@ -23,9 +23,9 @@ tags:
 - therefore , in some systems like banks , where recency nd consistency is most imp , think twice before caching ... what to cache , what not to ? or even do we need cache at all ? 
 
 
-![Pasted image 20261001093419.png](../../../../excalidraw/Pasted image 20261001093419.png)
-![Pasted image 20261001093436.png](../../../../excalidraw/Pasted image 20261001093436.png)
-![Pasted image 20261001093455.png](../../../../excalidraw/Pasted image 20261001093455.png)![Pasted image 20261001093508.png](../../../../excalidraw/Pasted image 20261001093508.png)![Pasted image 20261001093523.png](../../../../excalidraw/Pasted image 20261001093523.png)
+![Pasted image 20261001093419.png](../../../../excalidraw/Pasted%20image%2020261001093419.png)
+![Pasted image 20261001093436.png](../../../../excalidraw/Pasted%20image%2020261001093436.png)
+![Pasted image 20261001093455.png](../../../../excalidraw/Pasted%20image%2020261001093455.png)![Pasted image 20261001093508.png](../../../../excalidraw/Pasted%20image%2020261001093508.png)![Pasted image 20261001093523.png](../../../../excalidraw/Pasted%20image%2020261001093523.png)
 
 
 - sb jagah cache krne mai prblm is invalidation nd layered staleness of data

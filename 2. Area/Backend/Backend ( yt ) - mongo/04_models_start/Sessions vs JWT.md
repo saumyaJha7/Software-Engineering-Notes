@@ -26,7 +26,7 @@ tags:
 
 
 
-![session tokens](../../../../excalidraw/session tokens.png)
+![session tokens](../../../../excalidraw/session%20tokens.png)
 ![jwt](../../../../excalidraw/jwt.png)
 
 

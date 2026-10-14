@@ -6,6 +6,6 @@ tags:
 
 
 
-![dns resolution](../../excalidraw/dns resolution.png)
+![dns resolution](../../excalidraw/dns%20resolution.png)
 
 

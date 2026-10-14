@@ -6,7 +6,7 @@ tags:
   - caching
   - DB
 ---
-![Pasted image 20260904113941.png](../../excalidraw/Pasted image 20260904113941.png)
+![Pasted image 20260904113941.png](../../excalidraw/Pasted%20image%2020260904113941.png)
 
 
 

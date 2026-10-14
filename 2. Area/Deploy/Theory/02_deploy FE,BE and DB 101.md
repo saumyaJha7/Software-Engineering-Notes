@@ -8,7 +8,7 @@ tags:
 
 
 
-![deploy full stack 101](../../../excalidraw/deploy full stack 101.png)
+![deploy full stack 101](../../../excalidraw/deploy%20full%20stack%20101.png)
 
 
 ## 

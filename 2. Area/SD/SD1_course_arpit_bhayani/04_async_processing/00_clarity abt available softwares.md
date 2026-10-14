@@ -24,7 +24,7 @@
 	- ki video service ne job add kr diya , subtitle service apne logic se usko process kr legi 
 
 
-![rabbitMQ use case](../../../../excalidraw/rabbitMQ use case.png)
+![rabbitMQ use case](../../../../excalidraw/rabbitMQ%20use%20case.png)
 
 
 

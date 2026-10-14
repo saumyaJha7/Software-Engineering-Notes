@@ -13,7 +13,7 @@ tags:
 
 ## Ans .consider a real world scenario ... someone comments then someone replies to that comment and then again owner replies to the reply .. and so on ... i.e.
 
-  ![self-refn model](../../excalidraw/self-refn model.png)
+  ![self-refn model](../../excalidraw/self-refn%20model.png)
   
   
 

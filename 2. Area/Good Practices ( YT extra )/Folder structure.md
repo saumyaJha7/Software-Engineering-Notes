@@ -31,6 +31,6 @@
 ## 2. Full Flow based
 
 
-![flow based folder structure](../../excalidraw/flow based folder structure.png)
+![flow based folder structure](../../excalidraw/flow%20based%20folder%20structure.png)
 
 

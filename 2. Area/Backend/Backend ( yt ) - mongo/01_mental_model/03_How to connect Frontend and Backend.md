@@ -5,7 +5,7 @@ tags:
   - fullStack
   - thinking
 ---
-![big picture overview of dev](../../../../excalidraw/big picture overview of dev.png)
+![big picture overview of dev](../../../../excalidraw/big%20picture%20overview%20of%20dev.png)
 
 - Frontend se req hogi 
 - backend data send krega 

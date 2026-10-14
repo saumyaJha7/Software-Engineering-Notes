@@ -13,7 +13,7 @@ tags:
 
 
 
-![why port mapping](../../../excalidraw/why port mapping.png)
+![why port mapping](../../../excalidraw/why%20port%20mapping.png)
 
 
 

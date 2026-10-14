@@ -13,14 +13,14 @@ tags:
 
 
 
-![Pasted image 20261008121126.png](../../../../excalidraw/Pasted image 20261008121126.png)
-![Pasted image 20261008121145.png](../../../../excalidraw/Pasted image 20261008121145.png)
-![Pasted image 20261008121158.png](../../../../excalidraw/Pasted image 20261008121158.png)
-![Pasted image 20261008121209.png](../../../../excalidraw/Pasted image 20261008121209.png)
+![Pasted image 20261008121126.png](../../../../excalidraw/Pasted%20image%2020261008121126.png)
+![Pasted image 20261008121145.png](../../../../excalidraw/Pasted%20image%2020261008121145.png)
+![Pasted image 20261008121158.png](../../../../excalidraw/Pasted%20image%2020261008121158.png)
+![Pasted image 20261008121209.png](../../../../excalidraw/Pasted%20image%2020261008121209.png)
 
 - so it is like if service is healthy , then only req
 - else , handle that case 
 - may be servce general feed in case of social networks app 
 - or whatever acc to useCase , but this way can prevent complete outage 
 
-![Pasted image 20261008121224.png](../../../../excalidraw/Pasted image 20261008121224.png)
+![Pasted image 20261008121224.png](../../../../excalidraw/Pasted%20image%2020261008121224.png)

@@ -10,7 +10,7 @@ tags:
 ### Ans : It is a **conceptual framework** that explains **how data travels** from one computer to another across a network (like the Internet).
 
 
-![OSI Model](../../excalidraw/OSI Model.png)
+![OSI Model](../../excalidraw/OSI%20Model.png)
 
 
 ## - The 7 Layers of OSI Model :- 

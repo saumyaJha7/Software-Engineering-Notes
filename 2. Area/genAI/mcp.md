@@ -28,4 +28,4 @@
 
 
 
-![Pasted image 20261002121941.png](../../excalidraw/Pasted image 20261002121941.png)
+![Pasted image 20261002121941.png](../../excalidraw/Pasted%20image%2020261002121941.png)

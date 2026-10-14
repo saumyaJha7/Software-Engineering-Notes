@@ -10,7 +10,7 @@ tags:
 ## Very detailed Convo , : https://chatgpt.com/share/69301310-9fd8-800f-ac99-106325e9c1de
 
 
-![auth flow](../../../../excalidraw/auth flow.png)
+![auth flow](../../../../excalidraw/auth%20flow.png)
 
 
 

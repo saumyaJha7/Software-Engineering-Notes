@@ -1,3 +1,3 @@
 
 
-![full app flow](../../../excalidraw/full app flow.png)
+![full app flow](../../../excalidraw/full%20app%20flow.png)
