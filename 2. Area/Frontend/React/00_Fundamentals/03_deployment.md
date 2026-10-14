@@ -6,7 +6,7 @@ tags:
 ---
 
 
-![[deployment_101 | 800]]
+![deployment_101](../../../../excalidraw/deployment_101.md)
 
 
 

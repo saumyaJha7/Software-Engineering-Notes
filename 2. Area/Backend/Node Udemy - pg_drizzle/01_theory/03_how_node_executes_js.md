@@ -11,7 +11,7 @@ tags:
 
 
 
-![[nodejs_architecture|800]]
+![nodejs_architecture](../../../../excalidraw/nodejs_architecture.md)
 
 
 
@@ -40,7 +40,7 @@ tags:
 ### 5. Thread ke execute krne ke baad wapas se event queue mai lined up ho gaya
 ### 6. baaki kaam krne ke baad loop dubara usko uthayga , then will just execute .
 
-![[nodejs_architecture_flow|900]]
+![nodejs_architecture_flow](../../../../excalidraw/nodejs_architecture_flow.md)
 
 
 

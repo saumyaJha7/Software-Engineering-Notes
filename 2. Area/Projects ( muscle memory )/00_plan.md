@@ -5,4 +5,4 @@
 
 
 
-![[porjects_plan | 900]]
+![porjects_plan](../../excalidraw/porjects_plan.md)

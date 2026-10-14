@@ -7,7 +7,7 @@ tags:
 
 
 
-![[Full Stack web overview|700]]
+![Full Stack web overview](../../../../excalidraw/Full Stack web overview.md)
 
 
 ## Flow :-

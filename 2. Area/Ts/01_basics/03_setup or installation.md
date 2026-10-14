@@ -4,7 +4,7 @@ tags:
 ---
 
 
-![[ts_to_js | 900]]
+![ts_to_js](../../../excalidraw/ts_to_js.md)
 
 
 

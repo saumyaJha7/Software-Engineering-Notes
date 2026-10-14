@@ -17,13 +17,13 @@ tags:
 
 
 
-![[kafka 101.png]]
+![kafka 101.png](../../../../excalidraw/kafka 101.png)
 
 
 
-![[Pasted image 20261007191431.png]]
-![[Pasted image 20261007191740.png]]
-![[Pasted image 20261007191805.png]]
+![Pasted image 20261007191431.png](../../../../excalidraw/Pasted image 20261007191431.png)
+![Pasted image 20261007191740.png](../../../../excalidraw/Pasted image 20261007191740.png)
+![Pasted image 20261007191805.png](../../../../excalidraw/Pasted image 20261007191805.png)
 
 
 
@@ -51,11 +51,11 @@ Rather it is there at the initial phase when the event is going to be stored at 
 ```
 
 
-![[kafka partitioning 101|900]]
+![kafka partitioning 101](../../../../excalidraw/kafka partitioning 101.md)
 
 
 
 
 
-![[Pasted image 20261007193332.png]]
-![[Pasted image 20261007193344.png]]	
+![Pasted image 20261007193332.png](../../../../excalidraw/Pasted image 20261007193332.png)
+![Pasted image 20261007193344.png](../../../../excalidraw/Pasted image 20261007193344.png)	

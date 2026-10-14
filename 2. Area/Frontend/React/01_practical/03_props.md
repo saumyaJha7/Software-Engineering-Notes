@@ -15,7 +15,7 @@ tags:
 
 
 
-![[props | 800]]
+![props](../../../../excalidraw/props.md)
 
 
 

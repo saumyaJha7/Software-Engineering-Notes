@@ -9,7 +9,7 @@ tags:
 
 #### how it will be done in js :- 
 
-![[js_state_manage|900]]
+![js_state_manage](../../../../../excalidraw/js_state_manage.md)
 
 
 
@@ -25,7 +25,7 @@ tags:
 ## Now how reacts solves this is :- 
 
 
-![[React_state|900]]
+![React_state](../../../../../excalidraw/React_state.md)
 
 
 

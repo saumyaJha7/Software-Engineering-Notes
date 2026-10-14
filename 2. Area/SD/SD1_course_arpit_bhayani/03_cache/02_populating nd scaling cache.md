@@ -19,6 +19,6 @@ tags:
 
 
 
-![[Pasted image 20261001092447.png]]
-![[Pasted image 20261001092511.png]]
-![[Pasted image 20261001092524.png]]
+![Pasted image 20261001092447.png](../../../../excalidraw/Pasted image 20261001092447.png)
+![Pasted image 20261001092511.png](../../../../excalidraw/Pasted image 20261001092511.png)
+![Pasted image 20261001092524.png](../../../../excalidraw/Pasted image 20261001092524.png)

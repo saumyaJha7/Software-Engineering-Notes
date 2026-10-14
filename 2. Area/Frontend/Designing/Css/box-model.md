@@ -47,4 +47,4 @@ tags:
 
 
 
-![[css box model | 700]]
+![css box model](../../../../excalidraw/css box model.md)

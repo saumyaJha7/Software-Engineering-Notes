@@ -14,7 +14,7 @@ tags:
 
 
 
-![[why_ts|900]]
+![why_ts](../../../excalidraw/why_ts.md)
 
 
 

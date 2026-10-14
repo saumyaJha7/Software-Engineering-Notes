@@ -9,7 +9,7 @@ tags:
 
 
 
-![[ecom_react_project_better_plan||900]]
+![ecom_react_project_better_plan](../../../../excalidraw/ecom_react_project_better_plan.md)
 
 
 

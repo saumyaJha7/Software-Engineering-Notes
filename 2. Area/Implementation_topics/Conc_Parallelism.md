@@ -23,7 +23,7 @@ Parallalism == Multi-Proccessing
 
 
 
-![[threads_process| 600]]
+![threads_process](../../excalidraw/threads_process.md)
 1. ek hi process mai multiple threads hote hai 
 2. process hi multiple hote hai isliye ... 
 								a) data sharing ni hota , process 1 apna change krta hai and so no .... ( soln : use queue,pipes etc)

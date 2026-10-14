@@ -1,3 +1,3 @@
 
 
-![[VPN | 700]]
+![VPN](../../excalidraw/VPN.md)

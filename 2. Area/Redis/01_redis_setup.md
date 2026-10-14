@@ -28,7 +28,7 @@ tags:
 
 
 
-![[docker redis setup|900]]
+![docker redis setup](../../excalidraw/docker redis setup.md)
 
 
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-![[vm vs containers|900]]
+![vm vs containers](../../excalidraw/vm vs containers.md)
 
 
 

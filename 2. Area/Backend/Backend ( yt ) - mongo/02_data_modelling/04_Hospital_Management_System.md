@@ -9,7 +9,7 @@ tags:
 ## This is the first model that I can come up with , It will change ofc according to the requirements of the client ... 
 
 
-![[hospital_management_model|900]]
+![hospital_management_model](../../../../excalidraw/hospital_management_model.md)
 
 
 # In actual project , we have to study the reports ( in this case medical records ) and then analyse ache se :- 

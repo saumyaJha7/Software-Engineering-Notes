@@ -16,14 +16,14 @@ tags:
 
 
 ### Q. How it all started ?
-![[History of CN | 1000]]
+![History of CN](../../excalidraw/History of CN.md)
 
 
 
 ### now abhi tk (1950's) tak [[circuit switching]] use hota tha , and wo ache se kaam kr rha tha for calls but jab ARPA aaya tb computer ke  bich data share , communication etc ki baat aayi kyuki (**MIT mai alg research chal rhi hai and UCLA mai alg to unka data share kaise hoga**)  , it was in-efficient hence [[packet switching]] came into the picture , the reason why packet switching was used in internet is : [[why packet switching used in computer networks]]
 
 
-![[ARPA NET | 900]]
+![ARPA NET](../../excalidraw/ARPA NET.md)
 
 
 ## As we have agreed upon certain rules to communicate like language , tone etc ... similarly communication rules for computers are called as [[protocols]]

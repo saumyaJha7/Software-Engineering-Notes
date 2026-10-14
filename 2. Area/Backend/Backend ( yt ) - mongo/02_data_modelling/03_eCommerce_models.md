@@ -8,7 +8,7 @@ tags:
   - thinking
 ---
 
-![[eCommerce_models_01|700]]
+![eCommerce_models_01](../../../../excalidraw/eCommerce_models_01.md)
 
 ## This is what I thought but :-
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-![[eCommerce_models_02|900]]
+![eCommerce_models_02](../../../../excalidraw/eCommerce_models_02.md)
 
 
 

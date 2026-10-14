@@ -31,4 +31,4 @@ tags:
 
 
 
-![[MVC|900]]
+![MVC](../../../../excalidraw/MVC.md)

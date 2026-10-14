@@ -14,5 +14,5 @@ tags:
 ### 2. Non - Relational DB : jisme koi structure nai hota hai , therefore more freedom + **extra checks hamko lagane pdte hai db mai dalne se phle** unlike relational jisme db hi error throw kr dega kch galat kroge toh .
 
 
-![[sql_noSql|800]]
+![sql_noSql](../../../../excalidraw/sql_noSql.md)
 

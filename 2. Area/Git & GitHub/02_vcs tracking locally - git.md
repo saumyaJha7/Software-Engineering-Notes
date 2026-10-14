@@ -4,7 +4,7 @@ tags:
   - vcs
   - git
 ---
-![[vcs_101|700]]
+![vcs_101](../../excalidraw/vcs_101.md)
 
 
 ## 1. system mai **git** to hai , and folder bhi hai but sbko thodi trek krega btana pdega ki kya track krna hai ... 

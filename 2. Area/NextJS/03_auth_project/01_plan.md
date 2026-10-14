@@ -8,7 +8,7 @@ tags:
 
 ### Basic idea :- 
 
-![[Pasted image 20260321114658.png]]
+![Pasted image 20260321114658.png](../../../excalidraw/Pasted image 20260321114658.png)
 
 
 
@@ -17,12 +17,12 @@ tags:
 
 
 
-![[auth routes | 900]]
+![auth routes](../../../excalidraw/auth routes.md)
 
 
 
 ## Also the verification of user flow is like :- 
 
 
-![[verify user flow | 900]]
+![verify user flow](../../../excalidraw/verify user flow.md)
 

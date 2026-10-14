@@ -4,7 +4,7 @@ tags:
   - backend
   - thinking
 ---
-![[dev basics|800]]
+![dev basics](../../../../excalidraw/dev basics.md)
 
 
 

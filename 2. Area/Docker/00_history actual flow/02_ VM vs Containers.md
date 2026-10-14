@@ -4,7 +4,7 @@ tags:
   - VM
   - docker
 ---
-![[containers vs VM|900]]
+![containers vs VM](../../../excalidraw/containers vs VM.md)
 
 
 

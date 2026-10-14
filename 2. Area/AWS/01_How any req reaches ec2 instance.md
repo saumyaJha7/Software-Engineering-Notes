@@ -3,7 +3,7 @@ tags:
   - aws
 ---
 
-![[Pasted image 20261006195655.png]]
+![](../../excalidraw/Pasted Image 20261006195655.png)
 
 
 

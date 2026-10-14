@@ -6,6 +6,6 @@ tags:
 
 
 
-![[dns resolution|700]]
+![dns resolution](../../excalidraw/dns resolution.md)
 
 

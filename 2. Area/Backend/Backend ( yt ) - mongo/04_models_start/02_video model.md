@@ -15,4 +15,4 @@ tags:
 ## 3. **Details about video** (==like duration==)  : ye sab cloudinary provide krta hai  
 
 
-![[video_models_yt|600]]
+![video_models_yt](../../../../excalidraw/video_models_yt.md)

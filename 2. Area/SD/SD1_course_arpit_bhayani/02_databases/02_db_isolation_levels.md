@@ -30,7 +30,7 @@ Result is equivalent to serial execution
 
 
 
-![[sd_isolation_levels|900]]
+![sd_isolation_levels](../../../../excalidraw/sd_isolation_levels.md)
 
 
 

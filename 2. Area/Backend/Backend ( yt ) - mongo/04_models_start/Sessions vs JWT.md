@@ -26,8 +26,8 @@ tags:
 
 
 
-![[session tokens|700]]
-![[jwt|700]]
+![session tokens](../../../../excalidraw/session tokens.md)
+![jwt](../../../../excalidraw/jwt.md)
 
 
 

@@ -8,7 +8,7 @@ tags:
 
 
 
-![[deploy full stack 101 | 900]]
+![deploy full stack 101](../../../excalidraw/deploy full stack 101.md)
 
 
 ## 

@@ -12,7 +12,7 @@ https://chatgpt.com/g/g-p-6965c66158d88191bf53156a1fd46088-full-stack-overview/c
 ### Ans. Different environments 
 
 
-![[problem_before_docker|900]]
+![problem_before_docker](../../../excalidraw/problem_before_docker.md)
 
 
 
@@ -22,4 +22,4 @@ https://chatgpt.com/g/g-p-6965c66158d88191bf53156a1fd46088-full-stack-overview/c
 - pack  the whole code + env ( OS , dependencies etc etc )
 - send that whole isolated box  
 
-![[solution_after_docker|900]]
+![solution_after_docker](../../../excalidraw/solution_after_docker.md)

@@ -13,7 +13,7 @@ tags:
 
 ## **Nested model** = `BaseModel` inside another `BaseModel`.
 
-![[excalidraw/nested model|nested model | 500]]
+![nested model](../../excalidraw/nested model.md)
   
   
 

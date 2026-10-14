@@ -1,3 +1,3 @@
 
 
-![[full app flow|900]]
+![full app flow](../../../excalidraw/full app flow.md)

@@ -29,7 +29,7 @@ now apne github se pull req bnane ka option aa rha hoga
 
 
 
-![[openSource|700]]
+![openSource](../../excalidraw/openSource.md)
 
 
 ## 6. raise a pr with appropriate msg and work 

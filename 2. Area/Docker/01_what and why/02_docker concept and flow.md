@@ -12,7 +12,7 @@ tags:
 - delete 
 
 
-![[docker concepts|900]]
+![docker concepts](../../../excalidraw/docker concepts.md)
 
 
 
@@ -22,5 +22,5 @@ tags:
 
 
 
-![[docker flow|900]]
+![docker flow](../../../excalidraw/docker flow.md)
 

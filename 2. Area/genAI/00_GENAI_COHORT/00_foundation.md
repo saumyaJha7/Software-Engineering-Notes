@@ -9,7 +9,7 @@ tags:
 ### 2. Chatgpt , Claude , Gemini : Car ( built on top of that engine )
 
 
-![[llm_foundation|900]]
+![llm_foundation](../../../excalidraw/llm_foundation.md)
 
 
 

@@ -14,13 +14,13 @@ tags:
 
 
 
-![[excalidraw/network_transport layer|network_transport layer | 900]]
+![network_transport layer](../../excalidraw/network_transport layer.md)
 
 
 
 ## Transport layer does the Multiplexing and de-multiplexing stuff as well ... 
 
-![[MUX_De-MUX | 900]]
+![MUX_De-MUX](../../excalidraw/MUX_De-MUX.md)
 
 
 

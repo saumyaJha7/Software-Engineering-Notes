@@ -31,6 +31,6 @@
 ## 2. Full Flow based
 
 
-![[flow based folder structure | 900]]
+![flow based folder structure](../../excalidraw/flow based folder structure.md)
 
 

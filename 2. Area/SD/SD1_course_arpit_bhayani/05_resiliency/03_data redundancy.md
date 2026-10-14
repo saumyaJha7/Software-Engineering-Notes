@@ -4,9 +4,9 @@ tags:
   - sd
 ---
 
-![[Pasted image 20261008122843.png]]
-![[Pasted image 20261008122902.png]]
-![[Pasted image 20261008122917.png]]
+![Pasted image 20261008122843.png](../../../../excalidraw/Pasted image 20261008122843.png)
+![Pasted image 20261008122902.png](../../../../excalidraw/Pasted image 20261008122902.png)
+![Pasted image 20261008122917.png](../../../../excalidraw/Pasted image 20261008122917.png)
 
 
 

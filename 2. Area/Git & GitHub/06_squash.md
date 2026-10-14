@@ -30,7 +30,7 @@ git merge --squash demo
 
 
 
-![[github_squash|700]]
+![github_squash](../../excalidraw/github_squash.md)
 
 
 ## Advantages :- 

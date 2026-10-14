@@ -21,7 +21,7 @@ tags:
 
 
 ## 4. For now this is the data model that we are storing :- 
-![[tweetTube_data_model]]
+![tweetTube_data_model](../../../../excalidraw/tweetTube_data_model.md)
 
 
 

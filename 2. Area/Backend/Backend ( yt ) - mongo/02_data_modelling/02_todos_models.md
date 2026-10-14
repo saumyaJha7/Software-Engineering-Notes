@@ -16,9 +16,9 @@ tags:
 
 
 
-![[todo_models|800]]
+![todo_models](../../../../excalidraw/todo_models.md)
 
-![[todo_model_details|600]]
+![todo_model_details](../../../../excalidraw/todo_model_details.md)
 
 
 

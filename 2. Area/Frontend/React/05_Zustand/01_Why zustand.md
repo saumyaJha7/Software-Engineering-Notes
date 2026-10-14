@@ -32,7 +32,7 @@ tags:
 
 
 
-![[zustand_101|900]]
+![zustand_101](../../../../excalidraw/zustand_101.md)
 
 
 

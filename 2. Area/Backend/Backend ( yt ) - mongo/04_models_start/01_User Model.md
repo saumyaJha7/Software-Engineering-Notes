@@ -14,7 +14,7 @@ tags:
  
 
 
-![[user_model_yt | 600|]]
+![user_model_yt](../../../../excalidraw/user_model_yt.md)
 
 
 

@@ -33,7 +33,7 @@ go slow , step by step.
 		- server ,  generator 
 		
 
-![[sd_feed_facebook|900]]
+![sd_feed_facebook](../../../../excalidraw/sd_feed_facebook.md)
 
 
 
@@ -68,7 +68,7 @@ go slow , step by step.
 	- but still need to dissect the generator part 
 
 
-![[sd_generator_fb|900]]
+![sd_generator_fb](../../../../excalidraw/sd_generator_fb.md)
 
 
 

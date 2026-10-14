@@ -9,7 +9,7 @@ tags:
 
 
 
-![[Pasted image 20260930182058.png]]
-![[Pasted image 20260930182125.png]]
-![[Pasted image 20260930182144.png]]![[Pasted image 20260930182201.png]]
-![[Pasted image 20260930182234.png]]
+![Pasted image 20260930182058.png](../../../../excalidraw/Pasted image 20260930182058.png)
+![Pasted image 20260930182125.png](../../../../excalidraw/Pasted image 20260930182125.png)
+![Pasted image 20260930182144.png](../../../../excalidraw/Pasted image 20260930182144.png)![Pasted image 20260930182201.png](../../../../excalidraw/Pasted image 20260930182201.png)
+![Pasted image 20260930182234.png](../../../../excalidraw/Pasted image 20260930182234.png)

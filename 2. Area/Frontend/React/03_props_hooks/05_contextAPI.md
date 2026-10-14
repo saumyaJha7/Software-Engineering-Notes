@@ -14,14 +14,14 @@ tags:
 ## Solution ?
 ### Ans : 
 
-![[contextAPI|900]]
+![contextAPI](../../../../excalidraw/contextAPI.md)
 
 
 
 ## Actually context is not outside , rather it is inside in the react dom tree..
 
 
-![[contextAPI_02|900]]
+![contextAPI_02](../../../../excalidraw/contextAPI_02.md)
 
 
 

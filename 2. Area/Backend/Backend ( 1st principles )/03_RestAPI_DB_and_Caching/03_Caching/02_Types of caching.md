@@ -17,7 +17,7 @@ tags:
 #### 1. Network based caching  : client-server ke bich ka physical distance kam kro .... uss client ka data usske pass wale server mai cache kro 
 
 - CDN based ( edge servers ) : nearest server -> cache hit -> instant response 
-![[CDN or edge server caching ]]
+![CDN or edge server caching](../../../../../excalidraw/CDN%20or%20edge%20server%20caching.png)
 	
 - DNS based : local DNS cache maintained by OS for IP resolution ( coz IP resolution is long process )  ... (==recursive resolver== )
 	- firstly check in local , if cache hit -> instant return the ip

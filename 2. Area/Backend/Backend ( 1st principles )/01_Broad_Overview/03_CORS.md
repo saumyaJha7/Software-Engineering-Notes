@@ -11,7 +11,7 @@ tags:
 
 ### 1. Simple req 
 
-![[https_cors_flow_simple_req| 900]]
+![https_cors_flow_simple_req](../../../../excalidraw/https_cors_flow_simple_req.png)
 - Browser is the enforcer ... backend just res ki allowed hai ya nai 
 
 
@@ -22,7 +22,7 @@ tags:
 - Header : Auth / custom headers 
 - Content-Type : app/json
 
-![[http_cors_flow_preflight_req | 900]]
+![http_cors_flow_preflight_req](../../../../excalidraw/http_cors_flow_preflight_req.md)
 
 
 

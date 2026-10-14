@@ -7,7 +7,7 @@ tags:
 
 
 
-![[basic_structure_website | 900]]
+![basic_structure_website](../../../../excalidraw/basic_structure_website.md)
 
 
 

@@ -13,7 +13,7 @@ tags:
 
 
 
-![[why port mapping || 700]]
+![why port mapping](../../../excalidraw/why port mapping.md)
 
 
 
