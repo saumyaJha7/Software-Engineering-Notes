@@ -14,3 +14,10 @@ tags:
 ![consistentHashing10.png](../../../../excalidraw/consistentHashing10.png)
 ![consistentHashing11.png](../../../../excalidraw/consistentHashing11.png)
 ![consistentHashing12.png](../../../../excalidraw/consistentHashing12.png)
+
+
+```
+it is just a function call , not a service.
+
+It just returns who owns the data
+```
