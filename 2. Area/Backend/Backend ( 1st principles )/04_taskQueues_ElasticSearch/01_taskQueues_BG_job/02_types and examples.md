@@ -22,11 +22,11 @@ tags:
 ## Common Real-World Use Cases* 
 
 -  *Sending Emails:* Calling third-party APIs (like Resend or Mailgun) to send verification codes or password reset links.
--  Processing Media:* Resizing uploaded images or encoding videos for different device resolutions.
+-  Processing Media: Resizing uploaded images or encoding videos for different device resolutions.
 -  *Generating Reports:* Assembling complex HTML or PDF data reports for enterprise platforms. 
 - Push Notifications: Sending device codes to Google or Apple's external operating system services to deliver alerts to a user's smartphone. 
 
-
+ 
 ## Some of the queue systems are :- 
 
 - bullMQ : it uses redis for storage + execution logic

@@ -12,7 +12,7 @@ https://chatgpt.com/g/g-p-6911d8d7e0f48191baee043e09b52030-backend/c/69e883ba-0d
 
 *   *The Reality of Backend Engineering:* Errors are not just problems; they are a normal, guaranteed part of building applications. Database queries will fail, external APIs will time out, and users will send bad data , bussiness logic will have some edge cases .
 
-*   *The Goal:* The question is not if errors will happen, but how your system handles them when they do. A backend engineer must design systems preparing for the ==worst-case scenarios== so that errors do not crash the application or corrupt data.
+*   *The Goal:* The question is not whether errors will happen, but how your system handles them when they do. A backend engineer must design systems preparing for the ==worst-case scenarios== so that errors do not crash the application or corrupt data.
 
 
 

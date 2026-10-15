@@ -10,7 +10,7 @@ tags:
 
 - critical tasks are : validating input , storing user in db , return res 
 - non-critical or imp but not urgent tasks : sending confirmation mail to user 
-			- je bhi agar apne backend p krenge to time lgega , latency aygi 
+			- ye bhi agar apne backend p krenge to time lgega , latency aygi 
 
 ```js
 // ❌ BAD (blocking) 
@@ -20,7 +20,7 @@ return response;
 ```
 
 
-<!-- ![task_queues problem statement](../../../../../excalidraw/task_queues%20problem%20statement.png) -->
+,
 ![task_queues problem statement](../../../../../excalidraw/task_queues%20problem%20statement.png)
 
 
@@ -37,11 +37,11 @@ return response; // fast
 ```js
 queue.process("sendEmail", async (job) => {  
 	const user = await getUser(job.data.userId);  
-		await sendEmail(user.email);  
+	await sendEmail(user.email);  
 });
 ```
 
-<!-- ![task_queue solution](../../../../../excalidraw/task_queue%20solution.png) -->
+
 ![task_queue solution](../../../../../excalidraw/task_queue%20solution.png)
 
 

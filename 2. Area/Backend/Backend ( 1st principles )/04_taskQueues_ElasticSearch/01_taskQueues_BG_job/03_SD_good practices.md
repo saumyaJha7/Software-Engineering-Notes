@@ -6,7 +6,7 @@ tags:
   - sd
   - good_practices
 ---
-##  System Design & Best Practices :- 
+
 #####  When building a backend at scale, you must design your background workers carefully: 
 
 - Idempotency: Tasks must be designed so they can be safely executed multiple times without causing side effects. If a task fails halfway through and is retried by the queue, it should ideally be wrapped in a database transaction so it can roll back and start cleanly from 0% completion. 
