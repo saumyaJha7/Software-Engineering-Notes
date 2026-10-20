@@ -24,5 +24,18 @@ tags:
 - as write is negligible so both master will handle read as well along with rare writes 
 - ( ==the point of choosing this approach is to let you know that it is not a hard n fast rule that master only handles write .. depends on the usecase== )
 
-![[designing_ecomm_product_listing_page|900]]
+![designing_ecomm_product_listing_page|900](../../../../excalidraw/designing_ecomm_product_listing_page.png)
 
+
+
+## Arpit Bhayani notes
+
+![design_ecom_1.png](../../../../excalidraw/design_ecom_1.png)
+![design_ecom_2.png](../../../../excalidraw/design_ecom_2.png)
+![design_ecom_3.png](../../../../excalidraw/design_ecom_3.png)
+![design_ecom_4.png](../../../../excalidraw/design_ecom_4.png)
+![design_ecom_5.png](../../../../excalidraw/design_ecom_5.png)
+![design_ecom_6.png](../../../../excalidraw/design_ecom_6.png)
+![design_ecom_7.png](../../../../excalidraw/design_ecom_7.png)
+
+![[designing_ecomm_product_listing_page.png]]
