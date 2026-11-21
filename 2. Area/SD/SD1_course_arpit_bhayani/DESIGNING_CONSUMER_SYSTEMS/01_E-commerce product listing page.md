@@ -38,4 +38,4 @@ tags:
 ![design_ecom_6.png](../../../../excalidraw/design_ecom_6.png)
 ![design_ecom_7.png](../../../../excalidraw/design_ecom_7.png)
 
-![[designing_ecomm_product_listing_page.png]]
+![designing_ecomm_product_listing_page.png](../../../../excalidraw/designing_ecomm_product_listing_page.png)

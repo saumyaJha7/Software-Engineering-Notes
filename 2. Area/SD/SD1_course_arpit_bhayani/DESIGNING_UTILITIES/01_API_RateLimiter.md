@@ -12,4 +12,4 @@ tags:
 - uss redis mai sirf RL ki chize hongi so nothing to worry 
 
 
-![[rate_limiter.png]]
+![rate_limiter.png](../../../../excalidraw/rate_limiter.png)
