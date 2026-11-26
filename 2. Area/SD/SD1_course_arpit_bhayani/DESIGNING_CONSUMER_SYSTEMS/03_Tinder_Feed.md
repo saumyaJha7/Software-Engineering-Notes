@@ -29,6 +29,10 @@ tags:
 
 
 
+- WATCH THE VIDEO AGAIN TO UNDERSTAND BETTER .
+
+
+
 
 
 ![tinder_feed_1.png](../../../../excalidraw/tinder_feed_1.png)
